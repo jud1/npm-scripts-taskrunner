@@ -1,0 +1,1 @@
+function holo(){var o=["gato","girafa","leon","doggo"];Array.prototype.forEach.call(o,function(o,t){console.log(o)})}holo();function test(){var o=[2,3,4];Array.prototype.forEach.call(o,function(o,t){console.log(o)})}test();

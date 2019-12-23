@@ -1,0 +1,19 @@
+body{
+    @import 'index/index.scss';
+    color: red;
+    div{
+        color: blue;
+    }
+    h1{
+        color: yellow;
+    }
+    p{
+        font-size: 2em;
+    }
+    @media(max-width: 959px){
+        color: red;
+    }
+    @media(max-width: 959px){
+        font-size: 2em;
+    }
+}
