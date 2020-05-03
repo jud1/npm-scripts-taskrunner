@@ -1,14 +1,9 @@
 body{
     @import 'index/index.scss';
-    color: red;
-    div{
-        color: blue;
-    }
-    h1{
-        color: yellow;
-    }
+    color: blue;
     p{
         font-size: 2em;
+        color: purple;
     }
     @media(max-width: 959px){
         color: red;
